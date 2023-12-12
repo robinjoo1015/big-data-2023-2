@@ -1,0 +1,17 @@
+https://github.com/jonyejin/Github-Tag-Embedder
+2022, 깃허브 태그 달아주기
+
+https://github.com/wonbeomjang/CAU-50648-big-data
+2022, 유튜브 조회수 분석
+
+https://github.com/BI-Project/Big-Data-Project/tree/feature/model
+2020, 뉴스 크롤링 후 자연어처리 (한국어) (세부적으로 뭐했는지는 모르겠음)
+
+https://github.com/woog2ee/Tweets-after-Queens-Death
+2022, 트위터 글 감정 분석 (영국 여왕)
+
+https://github.com/louischristner/CAU-big-data-project
+2021, IGN 리뷰 스크래핑 후 자연어처리 (세부적으로 뭐했는지는 모르겠음)
+
+https://github.com/kyung2/cau_bigdata
+2017, 환율과 계절 변동에 따른 제주도 여행객 추이 (무려 R로 했음)
